@@ -1,3 +1,9 @@
+//Prompt Gemini
+//Tolong ubah nama-nama variabel agar lebih readable dan format konsisten
+//Jangan ubah logika fungsi-fungsi program sama sekali
+//bedakan format konstanta dan variabel tiap segmen
+//bandingkan dengan program serial sebelumnya, apakah ada loika atau fungsi yang ketinggalan atau salah
+
 #define _USE_MATH_DEFINES
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
